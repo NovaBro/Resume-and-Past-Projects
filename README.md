@@ -6,9 +6,11 @@ The projects and the links to their respective repositories are listed  below.
 
 ## 2025 Senior - Present Year
 ### 
+Currently Working on Updating Section
 
 ## 2024 Junior - Senior
 ### 
+Currently Working on Updating Section
 
 ## 2023 Sophmore - Junior year
 ### NEAT_StockTrading 
