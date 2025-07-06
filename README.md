@@ -1,18 +1,19 @@
 # Resume-and-Past-Projects
 Just as the title says, this repository is to showcase some of the work and projects I have done! Keep in mind that some of the projects may be in progress or have not been updated in a while. <br>
-I have plenty of course work projects as well, but I am unable to post them publicly to github for academic integrity. If you would like to view my course projects in machine learning, cyber security, algorithms, optimization, and more, feel free to reach out to me at willizhe@umich.edu. <br>
-The projects and the links to their respective repositories are listed  below.
+I have many course work projects as well, but I am unable to post them publicly to github for academic integrity. If you would like to view my course projects in machine learning, cyber security, algorithms, optimization, and more, feel free to reach out to me at willizhe@umich.edu. <br>
+Public projects and the links to their respective repositories are listed  below.
 
 
-## 2025 Senior - Present Year
+## 2024-2025 Senior
+### 
+
+Currently Working on Updating Section
+
+## 2024 Junior - 2025 Senior
 ### 
 Currently Working on Updating Section
 
-## 2024 Junior - Senior
-### 
-Currently Working on Updating Section
-
-## 2023 Sophmore - Junior year
+## 2023 Sophmore - 2024Junior year
 ### NEAT_StockTrading 
 https://github.com/NovaBro/NEAT_StockTrading <br>
 
