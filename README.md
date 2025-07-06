@@ -5,22 +5,28 @@ Public projects and the links to their respective repositories are listed  below
 
 
 ## 2024-2025 Senior
-### Machine Learning Research Experience, EECS 498
-### Conversational AI, EECS 449 
-### Advance Directed Study (LettiNote), EECS 499
-### Practical Data Science, EECS 398
-### Web Systems, EECS 485
-Currently Working on Updating Section
 
+### Courses Taken:
+- Machine Learning Research Experience, EECS 498
+- Conversational AI, EECS 449
+- Advance Directed Study (LettiNote), EECS 499
+- Practical Data Science, EECS 398
+- Web Systems, EECS 485
+
+Currently Working on Updating Section
 
 ## 2024 Junior - 2025 Senior
-### Intro to Machine Learning, EECS 445
-### Foundations of Computer Science, EECS 376
-### Intro to Computer Security EECS 388
-
-Currently Working on Updating Section
+### Courses Taken:
+- Intro to Machine Learning, EECS 445
+- Foundations of Computer Science, EECS 376
+- Intro to Computer Security EECS 388
 
 ## 2023 Sophmore - 2024 Junior year
+
+### Courses Taken:
+- Data Structures and Algorithms, EECS 281
+- Programming and Intro to Data Structures, EECS 280
+
 ### NEAT_StockTrading 
 https://github.com/NovaBro/NEAT_StockTrading <br>
 
